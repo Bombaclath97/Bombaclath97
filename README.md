@@ -5,7 +5,9 @@
 
 #### Find me on Discord (Bombaclath#3673) or Telegram (Bombaclath97)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombaclath97)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombaclath97&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombaclath97&theme=radical&count_private=true)
+
 
 
 <!--
